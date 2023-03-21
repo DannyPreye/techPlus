@@ -1,0 +1,58 @@
+2023/03/21-16:28:44.668 baf4 Reusing MANIFEST /home/digitechub/Desktop/my_projects/whatsappbot/.wwebjs_auth/session-client1/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/21-16:28:44.669 baf4 Recovering log #204
+2023/03/21-16:28:44.750 baf4 Reusing old log /home/digitechub/Desktop/my_projects/whatsappbot/.wwebjs_auth/session-client1/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000204.log 
+2023/03/21-16:29:11.080 baf6 Level-0 table #211: started
+2023/03/21-16:29:11.177 baf6 Level-0 table #211: 959409 bytes OK
+2023/03/21-16:29:11.211 baf6 Delete type=0 #204
+2023/03/21-16:29:11.226 baf6 Compacting 1@1 + 9@2 files
+2023/03/21-16:29:11.433 baf6 Generated table #212@1: 32713 keys, 2225186 bytes
+2023/03/21-16:29:11.611 baf6 Generated table #213@1: 18836 keys, 2210072 bytes
+2023/03/21-16:29:11.722 baf6 Generated table #214@1: 2782 keys, 2153576 bytes
+2023/03/21-16:29:11.722 baf6 Level-0 table #216: started
+2023/03/21-16:29:11.811 baf6 Level-0 table #216: 975251 bytes OK
+2023/03/21-16:29:11.852 baf6 Delete type=0 #210
+2023/03/21-16:29:12.022 baf6 Generated table #217@1: 22479 keys, 2230476 bytes
+2023/03/21-16:29:12.210 baf6 Generated table #218@1: 62007 keys, 2202057 bytes
+2023/03/21-16:29:12.344 baf6 Generated table #219@1: 50761 keys, 1133057 bytes
+2023/03/21-16:29:12.344 baf6 Compacted 1@1 + 9@2 files => 12154424 bytes
+2023/03/21-16:29:12.410 baf6 compacted to: files[ 1 0 6 0 0 0 0 ]
+2023/03/21-16:29:12.411 baf6 Level-0 table #221: started
+2023/03/21-16:29:12.500 baf6 Level-0 table #221: 921194 bytes OK
+2023/03/21-16:29:12.538 baf6 Delete type=2 #203
+2023/03/21-16:29:12.538 baf6 Delete type=2 #200
+2023/03/21-16:29:12.538 baf6 Delete type=2 #211
+2023/03/21-16:29:12.538 baf6 Delete type=2 #190
+2023/03/21-16:29:12.538 baf6 Delete type=2 #206
+2023/03/21-16:29:12.538 baf6 Delete type=2 #191
+2023/03/21-16:29:12.538 baf6 Delete type=2 #194
+2023/03/21-16:29:12.538 baf6 Delete type=2 #208
+2023/03/21-16:29:12.538 baf6 Delete type=2 #207
+2023/03/21-16:29:12.538 baf6 Delete type=2 #195
+2023/03/21-16:29:12.538 baf6 Delete type=0 #215
+2023/03/21-16:29:12.555 baf4 Compacting 2@0 + 0@1 files
+2023/03/21-16:29:12.701 baf4 Generated table #222@0: 15136 keys, 1890119 bytes
+2023/03/21-16:29:12.701 baf4 Compacted 2@0 + 0@1 files => 1890119 bytes
+2023/03/21-16:29:12.737 baf4 compacted to: files[ 0 1 6 0 0 0 0 ]
+2023/03/21-16:29:12.758 baf4 Compacting 1@1 + 2@2 files
+2023/03/21-16:29:12.900 baf4 Generated table #223@1: 33162 keys, 2197285 bytes
+2023/03/21-16:29:13.078 baf4 Generated table #224@1: 25346 keys, 2244757 bytes
+2023/03/21-16:29:13.144 baf4 Generated table #225@1: 1113 keys, 971875 bytes
+2023/03/21-16:29:13.144 baf4 Compacted 1@1 + 2@2 files => 5413917 bytes
+2023/03/21-16:29:13.180 baf4 compacted to: files[ 0 0 7 0 0 0 0 ]
+2023/03/21-16:29:13.180 baf4 Delete type=2 #213
+2023/03/21-16:29:13.180 baf4 Delete type=2 #222
+2023/03/21-16:29:13.180 baf4 Delete type=2 #221
+2023/03/21-16:29:13.180 baf4 Delete type=2 #216
+2023/03/21-16:29:13.180 baf4 Delete type=2 #212
+2023/03/21-16:29:13.183 baf4 Level-0 table #227: started
+2023/03/21-16:29:13.256 baf4 Level-0 table #227: 921571 bytes OK
+2023/03/21-16:29:13.291 baf4 Delete type=0 #220
+2023/03/21-16:29:13.308 baf4 Compacting 1@1 + 2@2 files
+2023/03/21-16:29:13.478 baf4 Generated table #228@1: 24525 keys, 2163987 bytes
+2023/03/21-16:29:13.679 baf4 Generated table #229@1: 27598 keys, 2260299 bytes
+2023/03/21-16:29:13.756 baf4 Generated table #230@1: 10489 keys, 492602 bytes
+2023/03/21-16:29:13.756 baf4 Compacted 1@1 + 2@2 files => 4916888 bytes
+2023/03/21-16:29:13.812 baf4 compacted to: files[ 0 0 8 0 0 0 0 ]
+2023/03/21-16:29:13.812 baf4 Delete type=2 #223
+2023/03/21-16:29:13.812 baf4 Delete type=2 #224
+2023/03/21-16:29:13.812 baf4 Delete type=2 #227

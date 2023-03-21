@@ -1,0 +1,64 @@
+2023/03/21-16:30:03.581 bc63 Reusing MANIFEST /home/digitechub/Desktop/my_projects/whatsappbot/.wwebjs_auth/session-client1/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/21-16:30:03.582 bc63 Recovering log #226
+2023/03/21-16:30:03.675 bc63 Reusing old log /home/digitechub/Desktop/my_projects/whatsappbot/.wwebjs_auth/session-client1/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000226.log 
+2023/03/21-16:30:31.426 bc64 Level-0 table #233: started
+2023/03/21-16:30:31.515 bc64 Level-0 table #233: 944521 bytes OK
+2023/03/21-16:30:31.556 bc64 Delete type=0 #226
+2023/03/21-16:30:31.589 bc64 Compacting 1@1 + 8@2 files
+2023/03/21-16:30:31.892 bc64 Generated table #234@1: 33083 keys, 2231679 bytes
+2023/03/21-16:30:32.037 bc64 Generated table #235@1: 18212 keys, 2202383 bytes
+2023/03/21-16:30:32.137 bc64 Generated table #236@1: 2760 keys, 2154477 bytes
+2023/03/21-16:30:32.303 bc64 Generated table #237@1: 22575 keys, 2229435 bytes
+2023/03/21-16:30:32.382 bc64 Level-0 table #240: started
+2023/03/21-16:30:32.458 bc64 Level-0 table #240: 982937 bytes OK
+2023/03/21-16:30:32.497 bc64 Delete type=0 #232
+2023/03/21-16:30:32.603 bc64 Generated table #238@1: 66737 keys, 2206330 bytes
+2023/03/21-16:30:32.726 bc64 Generated table #241@1: 45818 keys, 1022222 bytes
+2023/03/21-16:30:32.726 bc64 Compacted 1@1 + 8@2 files => 12046526 bytes
+2023/03/21-16:30:32.762 bc64 compacted to: files[ 1 0 6 0 0 0 0 ]
+2023/03/21-16:30:32.806 bc64 Moved #240 to level-1 982937 bytes OK: files[ 0 1 6 0 0 0 0 ]
+2023/03/21-16:30:32.822 bc64 Compacting 1@1 + 2@2 files
+2023/03/21-16:30:32.982 bc64 Generated table #242@1: 31590 keys, 2207142 bytes
+2023/03/21-16:30:33.171 bc64 Generated table #243@1: 23181 keys, 2233018 bytes
+2023/03/21-16:30:33.226 bc64 Generated table #244@1: 404 keys, 500238 bytes
+2023/03/21-16:30:33.226 bc64 Compacted 1@1 + 2@2 files => 4940398 bytes
+2023/03/21-16:30:33.282 bc64 compacted to: files[ 0 0 7 0 0 0 0 ]
+2023/03/21-16:30:33.283 bc64 Delete type=2 #219
+2023/03/21-16:30:33.283 bc64 Delete type=2 #228
+2023/03/21-16:30:33.283 bc64 Delete type=2 #218
+2023/03/21-16:30:33.283 bc64 Delete type=2 #230
+2023/03/21-16:30:33.283 bc64 Delete type=2 #214
+2023/03/21-16:30:33.283 bc64 Delete type=2 #217
+2023/03/21-16:30:33.283 bc64 Delete type=2 #233
+2023/03/21-16:30:33.283 bc64 Delete type=2 #229
+2023/03/21-16:30:33.283 bc64 Delete type=2 #225
+2023/03/21-16:30:33.288 bc64 Level-0 table #246: started
+2023/03/21-16:30:33.360 bc64 Level-0 table #246: 926377 bytes OK
+2023/03/21-16:30:33.394 bc64 Delete type=2 #235
+2023/03/21-16:30:33.394 bc64 Delete type=2 #234
+2023/03/21-16:30:33.394 bc64 Delete type=0 #239
+2023/03/21-16:30:33.394 bc64 Delete type=2 #240
+2023/03/21-16:30:33.416 bc5e Compacting 1@1 + 2@2 files
+2023/03/21-16:30:33.583 bc5e Generated table #247@1: 33035 keys, 2199183 bytes
+2023/03/21-16:30:33.817 bc5e Generated table #248@1: 25547 keys, 2246651 bytes
+2023/03/21-16:30:33.894 bc5e Generated table #249@1: 333 keys, 478958 bytes
+2023/03/21-16:30:33.894 bc5e Compacted 1@1 + 2@2 files => 4924792 bytes
+2023/03/21-16:30:33.979 bc5e compacted to: files[ 0 0 8 0 0 0 0 ]
+2023/03/21-16:30:33.980 bc5e Delete type=2 #243
+2023/03/21-16:30:33.980 bc5e Delete type=2 #242
+2023/03/21-16:30:33.980 bc5e Delete type=2 #246
+2023/03/21-16:30:33.994 bc5e Level-0 table #251: started
+2023/03/21-16:30:34.083 bc5e Level-0 table #251: 924389 bytes OK
+2023/03/21-16:30:34.124 bc5e Delete type=0 #245
+2023/03/21-16:30:34.143 bc5e Compacting 1@1 + 2@2 files
+2023/03/21-16:30:34.294 bc5e Generated table #252@1: 28326 keys, 2169018 bytes
+2023/03/21-16:30:34.472 bc5e Generated table #253@1: 24370 keys, 2261105 bytes
+2023/03/21-16:30:34.549 bc5e Generated table #254@1: 10005 keys, 490254 bytes
+2023/03/21-16:30:34.549 bc5e Compacted 1@1 + 2@2 files => 4920377 bytes
+2023/03/21-16:30:34.588 bc5e compacted to: files[ 0 0 9 0 0 0 0 ]
+2023/03/21-16:30:34.589 bc5e Delete type=2 #248
+2023/03/21-16:30:34.589 bc5e Delete type=2 #247
+2023/03/21-16:30:34.589 bc5e Delete type=2 #251
+2023/03/21-16:49:29.898 bc5e Level-0 table #256: started
+2023/03/21-16:49:29.982 bc5e Level-0 table #256: 927529 bytes OK
+2023/03/21-16:49:30.019 bc5e Delete type=0 #250
