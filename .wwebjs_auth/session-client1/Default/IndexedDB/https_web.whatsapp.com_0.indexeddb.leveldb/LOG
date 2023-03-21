@@ -62,3 +62,18 @@
 2023/03/21-16:49:29.898 bc5e Level-0 table #256: started
 2023/03/21-16:49:29.982 bc5e Level-0 table #256: 927529 bytes OK
 2023/03/21-16:49:30.019 bc5e Delete type=0 #250
+2023/03/21-17:00:38.197 bc5e Compacting 1@1 + 7@2 files
+2023/03/21-17:00:38.391 bc5e Generated table #257@1: 33281 keys, 2238455 bytes
+2023/03/21-17:00:38.592 bc5e Generated table #258@1: 17449 keys, 2196392 bytes
+2023/03/21-17:00:38.724 bc5e Generated table #259@1: 2727 keys, 2155037 bytes
+2023/03/21-17:00:38.880 bc5e Generated table #260@1: 22464 keys, 2135629 bytes
+2023/03/21-17:00:38.881 bc5e Compacted 1@1 + 7@2 files => 8725513 bytes
+2023/03/21-17:00:38.947 bc5e compacted to: files[ 0 0 6 0 0 0 0 ]
+2023/03/21-17:00:38.947 bc5e Delete type=2 #254
+2023/03/21-17:00:38.947 bc5e Delete type=2 #244
+2023/03/21-17:00:38.947 bc5e Delete type=2 #236
+2023/03/21-17:00:38.947 bc5e Delete type=2 #253
+2023/03/21-17:00:38.948 bc5e Delete type=2 #252
+2023/03/21-17:00:38.948 bc5e Delete type=2 #249
+2023/03/21-17:00:38.948 bc5e Delete type=2 #256
+2023/03/21-17:00:38.948 bc5e Delete type=2 #237
