@@ -7,6 +7,7 @@ const qrcode = require("qrcode");
 const cors = require("cors");
 const routes = require("./routes");
 const qrTerminal = require("qrcode-terminal");
+const { v4: uuidv4 } = require("uuid");
 
 const config = new Configuration({
     apiKey: process.env.OPENAI_API_KEY,
@@ -24,7 +25,7 @@ app.use(cors());
 app.use("/", routes);
 
 const client = new Client({
-    authStrategy: new LocalAuth({ clientId: "client1" }),
+    authStrategy: new LocalAuth({ clientId: uuidv4() }),
 });
 
 let qrCode;
